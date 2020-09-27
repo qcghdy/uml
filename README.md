@@ -9,3 +9,7 @@
 ## 专业方法
 相关方法：
 https://www.visual-paradigm.com/cn/guide/
+
+
+## 到底什么是er图，
+https://www.visual-paradigm.com/cn/guide/data-modeling/what-is-entity-relationship-diagram/
